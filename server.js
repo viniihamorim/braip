@@ -79,5 +79,5 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Inicializar o servidor
 server.listen(port, () => {
-    console.log(`Server running on https://testes.amorimtank.online:${port}`);
+    console.log(`Server running on https://braip.amorimtank.online:${port}`);
 });
